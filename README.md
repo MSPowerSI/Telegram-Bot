@@ -3,8 +3,7 @@
 <p><b>Plataforma:</b> <i>Telegram</i></p>
 
 <hr>
-<h2>Sobre: </h2>
-<h3> 
+<h2>Sobre: </h2> 
   <p>O programa consite em um bot desenvolvido para axuliar pesquisas referentes a nomes.</p>
   <p>Contudo o robo demonstra rápidez em buscar dados de qualquer nome registrado pelo IBGE, </p>
   <p>sendo então uma forma prática de fazer consultas. Além disso, pode ser usado por </p>
@@ -13,7 +12,6 @@
   <p>plataforma, também podemos ter atualizações rápidas trocando sua base de dados por uma </p>
   <p>nova a qualquer momento, pois a mesma é baseada em um arquivo de texto gerada pelo próprio IBGE.</p>
   <p>Ademais, sua configuração foi programada para uma autenticação de texto de onde o bot estiver rodando.</p>
-</h3>
 </hr>
 
 <hr>
