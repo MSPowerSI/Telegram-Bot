@@ -33,8 +33,9 @@
     <ul>
       <li>As dependências do bot devem ser instaladas da seguinte forma:</li>
       <li><code>Terminal:</code> : "pip install aiogram"</li>
-      <li> </li>
-      <li>Desta forma todas as bicliotecas para utilizar o bo já estarão disponíveis.</li>
+      <li>Após a instalação das dependências, vamos iniciar ele: </li>
+      <li><code>Terminal:</code> : "python bot.py"</li>
+      <li>Desta forma todas as bibliotecas para utilizar o bot já estarão disponíveis.</li>
       <li>Logo, após rodar o bot, para dar início, deve ser enviado qualquer mensagem ao mesmo.</li>
     </ul>
   </p>
@@ -45,6 +46,7 @@
     <ul>
       <li>Para resgatar a API usada no bot, deve ser enviado uma mensagem ao aiogram e resgtar seu Token.</li>
       <li>O Token somente será gerado após a configuração do seu bot.</li>
+      <li>Após gerado o token atribua ele na variavel API_TOKEN na linha 15 do bot.py </li>
       <li><code>Bot Father</code> : https://t.me/BotFather</li>
     </ul>
   </p>
