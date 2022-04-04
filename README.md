@@ -2,6 +2,19 @@
 <p>Bot criado para pesquisa de informações sobre nomes de acordo com o IBGE.</p>
 <p><b>Plataforma:</b> <i>Telegram</i></p>
 
+
+<h2>Sobre: </h2>
+<h3> 
+  <p>O programa consite em um bot desenvolvido para axuliar pesquisas referentes a nomes.</p>
+  <p>Contudo o robo demonstra rápidez em buscar dados de qualquer nome registrado pelo IBGE, </p>
+  <p>sendo então uma forma prática de fazer consultas. Além disso, pode ser usado por </p>
+  <p>outros usuários de forma iterativa com intuito de divertir e mostrar curiosidades referente</p>
+  <p>ao nomes pesquisados. Seu uso fica fácil pois utiliza-se um teclado automático gerado pela</p>
+  <p>plataforma, também podemos ter atualizações rápidas trocando sua base de dados por uma </p>
+  <p>nova a qualquer momento, pois a mesma é baseada em um arquivo de texto gerada pelo próprio IBGE.</p>
+</h3>
+
+
 <hr>
 
 <h2 align='center'>Observações</h2>
