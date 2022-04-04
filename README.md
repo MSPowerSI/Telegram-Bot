@@ -31,7 +31,7 @@
   <h2 align='center'>API</h2>
   <p>
     <ul>
-      <li>Para resgatar a API usada no bot, deve ser enviado uma mensagem ao aiogram e resgtar seu Token.</li>
+      <li>Para resgatar a API usada no bot, deve ser enviado uma mensagem ao Telegram e resgtar seu Token.</li>
       <li>O Token somente será gerado após a configuração do seu bot.</li>
       <li>Após gerado o token atribua ele na variavel API_TOKEN na linha 15 do bot.py </li>
       <li><code>Bot Father</code> : https://t.me/BotFather</li>
