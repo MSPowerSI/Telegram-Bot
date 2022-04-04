@@ -38,7 +38,7 @@ class Form(StatesGroup):
 @dp.message_handler(commands=['info'])
 async def send_welcome(message: types.Message):
     await message.reply("Hi! I'm NomesIBGEBot!\nPowered by:"
-                        "\nDev. Laura Sorato. (Estagiário Developer) \nDev. Renan Almeida. (Estagiário Developer)\n")
+                        "\nMSPower\n")
 
 
 @dp.message_handler(commands='start')
